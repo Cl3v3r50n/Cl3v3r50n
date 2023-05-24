@@ -1,9 +1,8 @@
 ## Hello 
-![SejaQA](https://github.com/Cl3v3r50n/Cl3v3r50n/assets/12904474/5da64f3b-f9f3-48e8-a8f7-ab14e5f42a30)
 
-Olá, me chamo Cleverson (ele/dele), sou um QA apaixonado pela qualidade, Atuo a 14 anos na área da Tecnologia da informação, iniciei minha carreira atuando com Service Desk (suporte a aplicações), 
-e desde Dez/2009, atuo nas frentes de QA com atuação na garantia da qualidade, testes manuais, documentação e homologações, com foco na escrita de CNs e CTs, tanto procedural quando com Gherkin/BDD, 
-mapeamento de processos e fluxos, planos de teste, definição de esforço e escrita de manuais para o usuário.
-Atuei/Atuo em equipes tradicionais (modelo cascata) e times ágeis (Scrum), Garantindo a qualidade desde o desenvolvimento até a implantação, execução de testes Web, Desktop e APIs.
-Nos 3 últimos anos passei a estudar e atuar extr-oficialmente com automação de testes, usando Robotframework e mais recentemente tenho estudado automação com Java e Selenium, 
-sou também estudando das linguagens Java e Python com o intuito de usá-las para automação de testes.
+Olá, me chamo Cleverson (ele/dele), sou um QA apaixonado pela qualidade, sou o idedalizador do perfil @SejaQA no Instagram e no Medium
+Atuo a 14 anos na área da Tecnologia da informação, tendo iniciado minha carreira no Service Desk (suporte a aplicações).
+Em Dez/2009, recebi um convite para atuar nas frentes de QA com garantia da qualidade, testes manuais, documentação e homologações. 
+Com o passar do tempo comecei a participar da escrita de CNs e CTs, usando a metodologia Cascata para mapear processos e fluxos, planos de teste, definição de esforço e escrita de manuais para o usuário.
+Nos anos iniciais da minha carreira atuei principalmente em equipes tradicionais (modelo cascata), Garantindo a qualidade desde o desenvolvimento até a implantação, execução de testes Web, Desktop e APIs.
+Nos 4 últimos anos passei a atuar em times ágeis (SCRUM), Gherkin/BDD, estudar automação com o framework Robot, a linguagem Python e Selenium e mais recentemente tenho estudado automação de testes com Java e Selenium.
