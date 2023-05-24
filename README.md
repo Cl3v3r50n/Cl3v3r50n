@@ -1,4 +1,4 @@
-## Hello there
+## Hello there 👋
 
 Olá, me chamo Cleverson (ele/dele), sou um QA apaixonado pela qualidade, sou o idedalizador do perfil @SejaQA no Instagram e no Medium
 Atuo a 14 anos na área da Tecnologia da informação, tendo iniciado minha carreira no Service Desk (suporte a aplicações).
