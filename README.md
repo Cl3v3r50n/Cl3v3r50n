@@ -1,4 +1,6 @@
 ## Hello 
+![SejaQA](https://github.com/Cl3v3r50n/Cl3v3r50n/assets/12904474/5da64f3b-f9f3-48e8-a8f7-ab14e5f42a30)
+
 Olá, me chamo Cleverson (ele/dele), sou um QA apaixonado pela qualidade, Atuo a 14 anos na área da Tecnologia da informação, iniciei minha carreira atuando com Service Desk (suporte a aplicações), 
 e desde Dez/2009, atuo nas frentes de QA com atuação na garantia da qualidade, testes manuais, documentação e homologações, com foco na escrita de CNs e CTs, tanto procedural quando com Gherkin/BDD, 
 mapeamento de processos e fluxos, planos de teste, definição de esforço e escrita de manuais para o usuário.
